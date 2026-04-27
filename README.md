@@ -1,1 +1,1 @@
-# Tarea-9
+El presente proyecto tiene como objetivo implementar y relacionar diversas estructuras de datos dinámicas utilizando el lenguaje de programación C++. Se hace uso de punteros y memoria dinámica para gestionar la información de manera eficiente, permitiendo simular el comportamiento de estructuras fundamentales estudiadas en el curso.# Tarea-9
